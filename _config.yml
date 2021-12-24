@@ -1,14 +1,12 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Welcome to Me Land
+author: Sanjay Shanbhag
+email: SanjayShanbhag1996@gmail.com
 theme: Architect
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: > I am a AI enthusiast always on look out to solve the challenging projects. Eagerness to learn and decipher new skills are my key qualities. On look out for a similar constantly improving and learning environment to work where in  my skills and qualities can further be enhanced.
+  
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+linkedin_username: https://www.linkedin.com/in/sanjay-shanbhag-2b153b166/
+github_username:  Sanjay-Shan
 
 show_excerpts: true # set to false to remove excerpts on the homepage
