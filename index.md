@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome to me land"
 ---
+I'll be presenting my projects and my achievements in here.
 
-I'm glad you are here. I plan to talk about ...
